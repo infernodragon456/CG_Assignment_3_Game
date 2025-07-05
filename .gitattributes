@@ -1,0 +1,6 @@
+# Ignore ShaderLab files
+*.shader linguist-detectable=false
+
+# Ignore HLSL files
+*.hlsl linguist-detectable=false
+*.cginc linguist-detectable=false
